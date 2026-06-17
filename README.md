@@ -1,1 +1,1 @@
-# paginawub
+# paginawub O ProjetoP5 foi desenvolvido como parte prática da formação Programação PR, com o objetivo de aplicar os conceitos de lógica de programação, desenvolvimento de software e ferramentas de versionamento de código (como o Git e GitHub) estudados ao longo do curso.
